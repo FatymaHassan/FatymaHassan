@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter Mobile App Developer**
 
-- 💬 Ask me about ** Flutter**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **fatymah110@gmail.com**
 
