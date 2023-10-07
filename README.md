@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fatymah110@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am Positive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
