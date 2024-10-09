@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Face and Voice Authentication**
+- 🔭 I’m currently working on **Data Analysis & Data Science Projects **
 
 - 🌱 I’m currently learning **Power BI & Machine Learning**
 
@@ -24,8 +24,8 @@
 </p>
 <h3 align="left">Language & Tools:</h3>
 
- <img src ="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">  <img src ="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff">  <img src ="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=fff"> <img src ="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=fff">
-
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 
