@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Analysis & Data Science**
 
-- 📫 How to reach me **fatymah110@gmail.com**
+- 📫 How to reach me **fatyama.h.mohamed@gmail.com**
 
 - ⚡ Fun fact **I am Positive**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/faadimu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faadimu" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/fatymahassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="fatymahassan" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/fatima-hassan-218356255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="fatymahassan" height="30" width="40" /></a>
 </p>
 <h3 align="left">Language & Tools:</h3>
 
