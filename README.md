@@ -1,30 +1,63 @@
-<h1 align="center">Hi 👋, I'm Fatima Hassan Mohammed</h1>
-<h3 align="center">A passionate Data Analysis</h3>
+## Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatymahassan&label=Profile%20views&color=0e75b6&style=flat" alt="fatymahassan" /> </p>
+# 🚀 Welcome to My Data & ML Universe! 🌌  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm **Fatima Hassan**, a **Data Analyst & Machine Learning Enthusiast** from Somalia 🇸🇴. I’m deeply passionate about using data to solve problems, create meaningful insights, and build intelligent solutions that drive real impact. 📊🤖
 
-- 🔭 I’m currently working on **Data Analysis & Data Science Projects**
+---
 
-- 🌱 I’m currently learning **Power BI & Machine Learning**
+## 💡 What I Do:  
+🔹 Analyze and interpret complex datasets  
+🔹 Build insightful dashboards & reports  
+🔹 Develop machine learning models to predict and classify outcomes  
+🔹 Use tools like Python, SQL, and Excel to uncover hidden trends  
 
-- 💬 Ask me about **Data Analysis & Data Science**
+---
 
-- 📫 How to reach me **fatyama.h.mohamed@gmail.com**
+## 🧠 Machine Learning Skills:  
+🔸 Supervised & Unsupervised Learning  
+🔸 Model Evaluation (Accuracy, Precision, Recall, F1-Score)  
+🔸 Feature Engineering & Data Preprocessing  
+🔸 Libraries: Scikit-learn, XGBoost, TensorFlow (Basics)
 
-- ⚡ Fun fact **I am Positive**
+---
 
+## 🔧 Tech Stack & Tools I Use:  
+💻 **Languages:** Python, SQL  
+📊 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+🛠️ **Data Handling:** Pandas, NumPy, Excel, Google Sheets  
+📂 **Databases:** MySQL, PostgreSQL  
+🤖 **ML Tools:** Scikit-learn, TensorFlow, XGBoost  
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Fatymah110/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/faadimu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fatima-hassan-218356255/) 
+## 🌟 Fun Facts About Me:  
+- 📖 I see data as stories waiting to be told  
+- 🎯 I love solving real-world challenges with numbers  
+- 🚀 I’m always learning something new in tech and data!  
 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 📊 GitHub Stats & Achievements
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FatymaHassan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FatymaHassan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatymaHassan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+#### 🏆 GitHub Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=FatimaHassan&theme=onedark&no-frame=true&margin-w=15)
+
+#### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FatimaHassan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+#### 📈 GitHub Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FatimaHassan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile Views](https://komarev.com/ghpvc/?username=FatimaHassan&color=blue&style=flat-square)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatimaHassan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaHassan&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Let’s Connect!  
+📩 **Email:** fatymah110@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/fatimahassan](https://www.linkedin.com/in/fatymahassan/)  
+
+🎯 **Let’s turn data into decisions—and dreams into reality!** 🚀  
