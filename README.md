@@ -60,4 +60,4 @@ I'm **Fatima Hassan**, a **Data Analyst & Machine Learning Enthusiast** from Som
 📩 **Email:** fatymah110@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/fatimahassan](https://www.linkedin.com/in/fatymahassan/)  
 
-🎯 **Let’s turn data into decisions—and dreams into reality!** 🚀  
+🎯 **Let’s turn data into decisions and dreams into reality!** 🚀  
